@@ -7,6 +7,8 @@
 
 Import the Java project in Eclipse.
 
+add Spark jar files of *'tools\spark-2.3.2-bin-hadoop2.7\jars'* into project library.
+
 Set *HADOOP_HOME* as 'tools\hadoop-2.7.7'
 
 Run the java file SparkHive.java
